@@ -3,6 +3,6 @@ package Demo2;
 public class Test {
 
 	public static void main(String[] args) {
-	System.out.println("dhakad bhadu");
+	System.out.println("hi");
 	}
 }
